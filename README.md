@@ -14,8 +14,8 @@
 ## General Information
 - Business Problem
   -  **BoomBikes** wants to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market to regain their profits after the pandemic. The company wants to know:
-    - Which variables are significant in predicting the demand for shared bikes.
-    - How well those variables describe the bike demands.
+      - Which variables are significant in predicting the demand for shared bikes.
+      - How well those variables describe the bike demands.
 - Dataset used
   - Firm's proprietary Dataset ranging from 2018-2019
 
